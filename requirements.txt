@@ -14,6 +14,6 @@ pymango==0.1.1
 pymongo==3.8.0
 requests==2.21.0
 SQLAlchemy==1.3.4
-urllib3==1.23
+urllib3==1.24.2
 virtualenv==16.6.0
 Werkzeug==0.15.4
